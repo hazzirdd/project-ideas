@@ -1,1 +1,28 @@
-~
+BRAINSTORM
+1. GameNight II:
+    -Build apon my first project adding a better database, sessions for loging in and out
+
+2. Property Runner:
+    -Using my last job as inspiration. This app will keep track of properties a manager needs to check on. 
+    -Map out shortest routs to properties a runner needs to hit in a day
+    -Lets runners add/update/comment onto properties
+
+3. Hey! Games:
+    -A webstore for the boardgames I have created.
+
+4. Sarah Lynne Art:
+    -A webstore / information website for my wife, Sarah. People can view, request, buy artwork she makes
+
+5. My Year:
+    -A planner / goal organizer / calender
+
+
+
+
+hobbies:
+drums
+music
+boardgames
+videogames
+
+
